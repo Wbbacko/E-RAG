@@ -2,8 +2,6 @@
 
 **E-RAG: Advancing Retrieval-Augmented Generation for Entity-oriented Question Answering**
 
-Author: Pingwy Wu, Jing Tang, Huimin Chen
-
 ## Pipeline
 ![pipeline](/assets/pipeline.png)
 
@@ -12,7 +10,7 @@ Author: Pingwy Wu, Jing Tang, Huimin Chen
 ### Git clone
 
 ```bash
-git clone https://github.com/wpydcr/E-RAG.git
+git clone https://github.com/Wbbacko/E-RAG.git
 cd E-RAG
 ```
 
