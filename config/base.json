@@ -1,0 +1,8 @@
+{
+    "type": "azure_openai",
+    "api_key": "f6e18b4d85aa44cfb4c5845dd350ae8f",
+    "api_version": "2023-05-15",
+    "azure_endpoint": "https://bagezsk.openai.azure.com/",
+    "chat_model":"gpt3",
+    "embedding_model": "embedding"
+}

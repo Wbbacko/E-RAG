@@ -1,0 +1,5 @@
+gradio
+tiktoken
+openai
+scikit-learn
+numpy
